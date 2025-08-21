@@ -1,8 +1,12 @@
-## Dataset License Information
+Dataset License Information
 
-- **Dataset name:** LegitPhish Dataset (Version 2)  
-- **Source:** Mendeley Data (DOI: 10.17632/hx4m73v2sf.2)  
-- **Authors/Contributors:** Rachana Potpelwar, Uday Kulkarni, Jaishri Waghmare  
-- **Description:** Contains 101,219 URLs (63,678 phishing = 0; 37,540 legitimate = 1) with 18 extracted features, including structure and entropy-based indicators. :contentReference[oaicite:4]{index=4}  
-- **License:** Creative Commons Attribution 4.0 International (CC BY 4.0) – Full attribution required when redistributing. :contentReference[oaicite:5]{index=5}  
-- **Usage Terms:** The dataset may be used freely for academic and research purposes provided appropriate credit is given to the creators under the CC BY 4.0 license.
+Dataset name: CIC-IDS2017 — Monday-WorkingHours.pcap_ISCX.csv
+Source: Canadian Institute for Cybersecurity (CIC), University of New Brunswick. Available at: https://www.unb.ca/cic/datasets/ids-2017.html
+Description: CSV file derived from PCAP captures representing one day of benign network traffic (Monday Working Hours). Includes labelled flow features suitable for intrusion detection modeling.
+License / Usage Terms:
+Publicly available for academic and research purposes.
+
+Citation required when reused. Redistribution or commercial use should follow CIC/UNB’s terms as noted on the official dataset page.
+
+Citation:
+Sharafaldin, I., Lashkari, A. H., & Ghorbani, A. A., “Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization,” Proceedings of the 4th International Conference on Information Systems Security and Privacy (ICISSP), 2018. Available at: https://www.unb.ca/cic/datasets/ids-2017.html
