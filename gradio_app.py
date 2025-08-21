@@ -15,9 +15,8 @@ except Exception:
 
 import gradio as gr
 
-# -------- Config / Auto-discovery --------
 CANDIDATE_MODEL_PATHS = [
-    "/content/drive/MyDrive/Colab Notebooks/phishing_model.keras",
+    "/content/drive/MyDrive/DLI-assignment/phishing_model.keras",
     "/content/DLI-Group-Assignment/phishing_model.keras",
     "/content/DLI-Group-Assignment/model.h5",
     "./phishing_model.keras",
@@ -25,7 +24,7 @@ CANDIDATE_MODEL_PATHS = [
 ]
 
 CANDIDATE_XTEST_PATHS = [
-    "/content/drive/MyDrive/Colab Notebooks/X_test.csv",
+    "/content/drive/MyDrive/DLI-assignment/X_test.csv",
     "/content/DLI-Group-Assignment/X_test.csv",
     "./X_test.csv",
 ]
@@ -36,8 +35,8 @@ CANDIDATE_DATASET_PATHS = [
 ]
 
 CANDIDATE_SCALERS = [
-    "/content/drive/MyDrive/Colab Notebooks/scaler.joblib",
-    "/content/drive/MyDrive/Colab Notebooks/scaler.pkl",
+    "/content/drive/MyDrive/DLI-assignment/scaler.joblib",
+    "/content/drive/MyDrive/DLI-assignment/scaler.pkl",
     "/content/DLI-Group-Assignment/scaler.joblib",
     "/content/DLI-Group-Assignment/scaler.pkl",
     "./scaler.joblib",
