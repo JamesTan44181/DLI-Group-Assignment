@@ -10,3 +10,6 @@ Citation required when reused. Redistribution or commercial use should follow CI
 
 Citation:
 Sharafaldin, I., Lashkari, A. H., & Ghorbani, A. A., “Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization,” Proceedings of the 4th International Conference on Information Systems Security and Privacy (ICISSP), 2018. Available at: https://www.unb.ca/cic/datasets/ids-2017.html
+
+Chuah Shao Ern selected paper
+Farooq, M. S., & Jabbar, H. (2024, March 24). Phishing website detection using a combined model of ANN and LSTM. arXiv.org. https://arxiv.org/abs/2404.10780
